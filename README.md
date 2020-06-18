@@ -1,4 +1,4 @@
-# 2020-06-04-graphql-dot-net-talk
+# 2020-06-18-graphql-dot-net-lightning-talk
 
 Get the slides [here](https://docs.google.com/presentation/d/e/2PACX-1vRXGBM3i3cEvcldUK7y3DDupmd2oXrX1RH_LKhNuFNM4u7-ta4-WMNRXo51pGnBapLfzueYkHh24y5Y/pub?start=false&loop=false&delayms=3000)
 
