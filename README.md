@@ -39,3 +39,15 @@ Here are the links that you will be able to access:
 
 - A docker container is already using the port
   - Run `docker stop $(docker ps -aq)` in the terminal to stop all running containers
+
+---
+
+## Some visuals
+
+### How the API classes are built
+
+![API High Level Overview](images/api-high-level-overview.png)
+
+### How the Data Loaders and Resolvers are used
+
+![Data Loaders and Resolvers](images/data-loaders-and-resolvers.png)
