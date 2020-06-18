@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.logoWrapper {
+  background-color: #0a0a0a;
+  padding: 1rem 5rem;
+}
+
+.logo {
+  margin: 2rem 0;
+}
